@@ -33,7 +33,7 @@ public class App
 
     public static void main( String[] args ) throws StreamReadException, DatabindException, IOException
     {
-        Quiz quiz = DiskUtils.readQuiz(Path.of("./quiz-app/quiz.json"));
+        Quiz quiz = DiskUtils.readQuiz(Path.of("./quiz.json"));
         HashMap<String, User> loggedInUsers = new HashMap<>();
         
         System.out.println("Welcome to Quizlet");
