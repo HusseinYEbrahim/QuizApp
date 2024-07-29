@@ -1,0 +1,25 @@
+{
+    "name": "The Ultimate Quiz",
+    "questions" : [
+        {
+            "prompt": "What is the instance of class is called in java ?",
+            "answer": "Object",
+            "score": 20
+        },
+        {
+            "prompt": "What is my favourite series ?",
+            "answer": "Succession",
+            "score": 80
+        },
+        {
+            "prompt": "80-20*30/2 = ?",
+            "answer": "50",
+            "score": 35
+        },
+        {
+            "prompt": "What is a running program in OS ?",
+            "answer": "Process",
+            "score": 50
+        }
+    ]
+}
